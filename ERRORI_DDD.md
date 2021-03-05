@@ -28,3 +28,5 @@
 - ( Naming evento )
     - no {X} cambi-indirizzo
     - si {/} cambi-indirzzo-per-nuova-sede
+
+https://leanpub.com/agiletechnicalpracticesdistilled

@@ -46,11 +46,23 @@
     - ES => va virale col rotolone sul muro, quindi lui consiglia
     di mettere il rotolone all'entrata. difficile farlo con miro, la genert si deeve loggare esplicitamente
 
-- la terra di mezzo e' la norma: team cosi cosi, come si fa cosi?
+- la terra di mezzo e' la norma: se il team e' cosi cosi, come si fa?
     - si beh senza problemi no li chiamano
     - tentiamo di capire di risolvere il problema giusto
     - quali sono le opzioni?
         - decisione!
     - Quale e' il guadagno del refactoring? e' alto? se si' si tenta, se no non ne vale la pena
+    - problema di costruire il consenso su una mossa, il committment
+    capire come valutare
+    - mettere quelli bravi nelle condizioni di fare qualcosa di buono: difficile da remoto: non c'e' il "peso del consulente" ed il rispetto per l'evento.
+
+- diciamo che hai vinto il consenso del middle management: e dopo? la srotoli all high management?
+    - il meglio e' battere il ferro finche e' caldo:
+        - 1 giorno disgnostica: capire il problema
+        - 2 giorno fare il workshop: non li facciamo far uscire fino a che non si committano sulla soluzione.
+    - aspetti il momento del "ma e' lei che tutto questo casino" 
+    quando il rotolone e' visibile. per natura del risolvere il problema,  e' un problema dell'high management se non fanno niente col problem che fanno. e' importante che il punto di contatto sia abbastanza in alto.
+
+- e' difficile trovare la porzione del sistema dove c'e un seam. che bisogna spaccare: la colonna Stato e' un chiaro indicatore di rottura
     
 

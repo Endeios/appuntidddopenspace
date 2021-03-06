@@ -66,3 +66,53 @@
 - e' difficile trovare la porzione del sistema dove c'e un seam. che bisogna spaccare: la colonna Stato e' un chiaro indicatore di rottura
     
 
+## Precisazioni dello Zio Brando
+
+ZB =>
+Grazie, ne approfitto per chiarire meglio la domanda (o la risposta) sulla Terra di mezzo:
+
+ZB =>
+Ed il concetto base è che siamo sempre nella terra di mezzo: se sono bravissimi magari fanno da soli, se non hanno idea di DDD non ti chiameranno neanche. Quindi in genere mi chiamano solo se c'è almeno qualcuno in azienda che ha qualche buona idea, ma non ha la leva politica per fare succedere le cose. (edited) 
+
+ZB =>
+EventStorming in questo senso è un ottimo sistema per fare succedere le cose, perché sbatte in faccia al business che sta perdendo soldi. Al business non interessa il refactoring, ed il debito tecnico. Al business interessa capire perché stiamo perdendo soldi o perché non ne stiamo guadagnando.
+
+ZB =>
+Io non guardo ai soldi perché sono avido. Ma guardo ai soldi, perché devo poter giustificare con il business un'operazione che vedono come un pugno in un occhio.
+
+ZB =>
+Agli occhi del business: Refactoring = mettere del budget per fare cose che non capisco e che non si vedono da fuori.
+
+ZB =>
+E pensano: ti concedo di farlo una settimana, ma poi basta.
+
+ZB =>
+L'unico modo per convincerli è portargli delle revenues.
+
+ZB =>
+Mentre il tipico dev commette due errori in questo campo:
+
+ZB =>
+Parte animato dal desiderio di pulire il codice (che è un problema suo, che non interessa necessariamente il business).
+Non ha una chiara condizione di finito. Perché Rifare il monolite o... Rendere tutto più bello sono per il business "soldi bruciati senza sapere quando finirà"
+
+ZB =>
+Chiarito lo scope dell'intervento... chi ce la può fare in genere si auto-candida. Molto spesso perché semplicemente non vede l'ora.
+
+ZB =>
+Ma è fondamentale chiarire il perimetro dell'intervento. Perché molte volte lo stato di partenza è non va niente! e per quanto bravi possiamo essere, non abbiamo il tempo di sistemare TUTTO!.
+
+ZB =>
+Aggiungo:
+
+ZB =>
+Il cliente medio ti chiede di sistemare in 2 sessioni il casino ammucchiato di 50 developers in 15 anni.
+
+ZB =>
+Ed in genere riscrivere è più lento che scrivere.
+
+ZB =>
+Quindi essere circoscritti nelle promesse è un'ottima regola di sopravvivenza.
+
+ZB =>
+Anche se spesso si possono fare dei filotti: risolvi un problema e magicamente ne fai sparire 2 o 3 a valle.
